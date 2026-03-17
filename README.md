@@ -4,7 +4,7 @@
   <img src="./logo.png" alt="SIZR logo" width="720" />
 </p>
 
-<p align="center">
+<p>
   <strong>Precise window resizing for macOS.</strong><br />
   Resize windows to an exact size from the menu bar, without snapping, layouts, or window manager complexity.
 </p>
